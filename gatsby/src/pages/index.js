@@ -2,8 +2,9 @@ import React from 'react';
 
 export default function HomePage() {
   return (
-    <div>
+    <>
       <p>Hey! Home Page</p>
-    </div>
+      <p>Hey! I am another element</p>
+    </>
   );
 }
